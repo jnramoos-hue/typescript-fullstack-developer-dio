@@ -1,0 +1,24 @@
+{
+  "name": "typescript-fullstack-developer-dio",
+  "version": "1.0.0",
+  "description": "Study repository for the **DIO TypeScript Fullstack Developer** program, focused on building a strong fullstack foundation with **TypeScript**, **React**, **Node.js**, **Express**, **REST APIs**, **Object-Oriented Programming**, and practical portfolio projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnramoos-hue/typescript-fullstack-developer-dio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jnramoos-hue/typescript-fullstack-developer-dio/issues"
+  },
+  "homepage": "https://github.com/jnramoos-hue/typescript-fullstack-developer-dio#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
