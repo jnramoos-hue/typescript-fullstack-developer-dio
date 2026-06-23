@@ -4,6 +4,7 @@
   "description": "Study repository for the **DIO TypeScript Fullstack Developer** program, focused on building a strong fullstack foundation with **TypeScript**, **React**, **Node.js**, **Express**, **REST APIs**, **Object-Oriented Programming**, and practical portfolio projects.",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev modules/01-typescript-fundamentals/js/app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/jnramoos-hue/typescript-fullstack-developer-dio#readme",
   "devDependencies": {
     "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^6.0.3"
   }
 }
