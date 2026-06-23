@@ -89,23 +89,34 @@
 //---------------------------------------------------------------------
 // Array
 
-const array: Array<any> = [1, 2, 3, 4]
-
-const stringArray: string[]  = ['a', 'b', 'c']
-
-// console.log(array [0])
-
-console.log('array original: ', array)
-
-array.push(5)
-
-console.log('Array com o novo elemento: ', array)
-
-array.pop()
-
-console.log('Array retirando o ultimo elemento: ', array)
+// const array: Array<any> = [1, 2, 3, 4]
+//
+// const stringArray: string[]  = ['a', 'b', 'c']
+//
+// // console.log(array [0])
+//
+// // console.log('array original: ', array)
+// //
+// // array.push(5)
+// //
+// // console.log('Array com o novo elemento: ', array)
+// //
+// // array.pop()
+// //
+// // console.log('Array retirando o ultimo elemento: ', array)
+//
+// // const buscaNum =  array.find(num => num === 4)
+// // const buscaNum =  array.find(num => num > 4)
+// // console.log(buscaNum)
+//
+// array.forEach(num => {
+//     if (num > 2){
+//         console.log(num)
+//     }
+// })
 
 //---------------------------------------------------------------------
-
+// app.ts
+import './oop'
 
 
